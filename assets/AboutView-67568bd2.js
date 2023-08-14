@@ -1,1 +1,0 @@
-import{_ as e}from"./index-3d6dfb7b.js";import{o as t,b as o,e as _}from"./@vue-e9177d7f.js";import"./vue-router-218019ff.js";import"./@justinribeiro-98736657.js";import"./quasar-e97791a6.js";const s={},c={class:"about"},n=_("h1",null,"About Page WIP",-1),r=[n];function a(i,u){return t(),o("div",c,r)}const b=e(s,[["render",a]]);export{b as default};

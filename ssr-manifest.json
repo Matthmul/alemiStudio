@@ -67,124 +67,124 @@
     "./assets/@justinribeiro-98736657.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/api.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/app.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/component.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/context.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/index.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/api/util.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/const.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/env.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/index.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/plugin.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/proxy.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/devtools-api/lib/esm/time.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
-    "./assets/@vue-e9177d7f.js"
+    "./assets/@vue-df779f8b.js"
   ],
   "node_modules/quasar/icon-set/material-icons.mjs": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/lang/en-US.mjs": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/body.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/history.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/icon-set.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/install-quasar.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/lang.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/plugins/Dark.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/plugins/Meta.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/plugins/Platform.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/plugins/Screen.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/debounce.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/event.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/extend.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/is.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/private/define-reactive-plugin.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/private/global-config.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/private/inject-obj-prop.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/private/key-composition.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/private/symbols.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/utils/set-css-var.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/quasar/src/vue-plugin.js": [
-    "./assets/quasar-e97791a6.js"
+    "./assets/quasar-ad33a697.js"
   ],
   "node_modules/vue-router/dist/vue-router.mjs": [
-    "./assets/vue-router-218019ff.js"
+    "./assets/vue-router-95a03727.js"
   ],
   "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
     "./assets/vue-4ed993c7.js"
@@ -461,7 +461,7 @@
     "./assets/instagram-486d52a4.png",
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
-  "src/components/app/Footer.vue?vue&type=style&index=0&scoped=5a9f1c90&lang.scss": [
+  "src/components/app/Footer.vue?vue&type=style&index=0&scoped=45df1582&lang.scss": [
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -493,7 +493,71 @@
     "./assets/instagram-486d52a4.png",
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
-  "src/components/app/Navbar.vue?vue&type=style&index=0&scoped=6cfcdde9&lang.scss": [
+  "src/components/app/Navbar.vue?vue&type=style&index=0&scoped=0daea47e&lang.scss": [
+    "./assets/logo-b7be7aba.png",
+    "./assets/logo-15017955.png",
+    "./assets/phone-069da07f.png",
+    "./assets/instagram-3254d003.png",
+    "./assets/facebook-55aee8a1.png",
+    "./assets/zdj1-24056f7a.png",
+    "./assets/zdj2-018154e9.png",
+    "./assets/zdj3-7c75d359.png",
+    "./assets/picture-03410a0f.png",
+    "./assets/location-8f3ff85c.png",
+    "./assets/youtube-b7f09513.png",
+    "./assets/facebook-8d113d79.png",
+    "./assets/instagram-486d52a4.png",
+    "./assets/LaureneScriptFont-27056c94.ttf"
+  ],
+  "src/components/home/Information.vue": [
+    "./assets/logo-b7be7aba.png",
+    "./assets/logo-15017955.png",
+    "./assets/phone-069da07f.png",
+    "./assets/instagram-3254d003.png",
+    "./assets/facebook-55aee8a1.png",
+    "./assets/zdj1-24056f7a.png",
+    "./assets/zdj2-018154e9.png",
+    "./assets/zdj3-7c75d359.png",
+    "./assets/picture-03410a0f.png",
+    "./assets/location-8f3ff85c.png",
+    "./assets/youtube-b7f09513.png",
+    "./assets/facebook-8d113d79.png",
+    "./assets/instagram-486d52a4.png",
+    "./assets/LaureneScriptFont-27056c94.ttf"
+  ],
+  "src/components/home/Information.vue?vue&type=style&index=0&scoped=069a97e0&lang.scss": [
+    "./assets/logo-b7be7aba.png",
+    "./assets/logo-15017955.png",
+    "./assets/phone-069da07f.png",
+    "./assets/instagram-3254d003.png",
+    "./assets/facebook-55aee8a1.png",
+    "./assets/zdj1-24056f7a.png",
+    "./assets/zdj2-018154e9.png",
+    "./assets/zdj3-7c75d359.png",
+    "./assets/picture-03410a0f.png",
+    "./assets/location-8f3ff85c.png",
+    "./assets/youtube-b7f09513.png",
+    "./assets/facebook-8d113d79.png",
+    "./assets/instagram-486d52a4.png",
+    "./assets/LaureneScriptFont-27056c94.ttf"
+  ],
+  "src/components/home/Locations.vue": [
+    "./assets/logo-b7be7aba.png",
+    "./assets/logo-15017955.png",
+    "./assets/phone-069da07f.png",
+    "./assets/instagram-3254d003.png",
+    "./assets/facebook-55aee8a1.png",
+    "./assets/zdj1-24056f7a.png",
+    "./assets/zdj2-018154e9.png",
+    "./assets/zdj3-7c75d359.png",
+    "./assets/picture-03410a0f.png",
+    "./assets/location-8f3ff85c.png",
+    "./assets/youtube-b7f09513.png",
+    "./assets/facebook-8d113d79.png",
+    "./assets/instagram-486d52a4.png",
+    "./assets/LaureneScriptFont-27056c94.ttf"
+  ],
+  "src/components/home/Locations.vue?vue&type=style&index=0&scoped=d29cef37&lang.scss": [
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -525,7 +589,39 @@
     "./assets/instagram-486d52a4.png",
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
-  "src/components/home/Main.vue?vue&type=style&index=0&scoped=2795e2b4&lang.scss": [
+  "src/components/home/Main.vue?vue&type=style&index=0&scoped=161c3cb1&lang.scss": [
+    "./assets/logo-b7be7aba.png",
+    "./assets/logo-15017955.png",
+    "./assets/phone-069da07f.png",
+    "./assets/instagram-3254d003.png",
+    "./assets/facebook-55aee8a1.png",
+    "./assets/zdj1-24056f7a.png",
+    "./assets/zdj2-018154e9.png",
+    "./assets/zdj3-7c75d359.png",
+    "./assets/picture-03410a0f.png",
+    "./assets/location-8f3ff85c.png",
+    "./assets/youtube-b7f09513.png",
+    "./assets/facebook-8d113d79.png",
+    "./assets/instagram-486d52a4.png",
+    "./assets/LaureneScriptFont-27056c94.ttf"
+  ],
+  "src/components/home/Socials.vue": [
+    "./assets/logo-b7be7aba.png",
+    "./assets/logo-15017955.png",
+    "./assets/phone-069da07f.png",
+    "./assets/instagram-3254d003.png",
+    "./assets/facebook-55aee8a1.png",
+    "./assets/zdj1-24056f7a.png",
+    "./assets/zdj2-018154e9.png",
+    "./assets/zdj3-7c75d359.png",
+    "./assets/picture-03410a0f.png",
+    "./assets/location-8f3ff85c.png",
+    "./assets/youtube-b7f09513.png",
+    "./assets/facebook-8d113d79.png",
+    "./assets/instagram-486d52a4.png",
+    "./assets/LaureneScriptFont-27056c94.ttf"
+  ],
+  "src/components/home/Socials.vue?vue&type=style&index=0&scoped=1dd6fbbe&lang.scss": [
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -622,11 +718,11 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/AboutView.vue": [
-    "./assets/AboutView-67568bd2.js",
+    "./assets/AboutView-7b5e64cd.js",
     "./assets/AboutView-376d4f98.css"
   ],
   "src/views/AboutView.vue?vue&type=style&index=0&lang.css": [
-    "./assets/AboutView-67568bd2.js",
+    "./assets/AboutView-7b5e64cd.js",
     "./assets/AboutView-376d4f98.css"
   ],
   "src/views/HomeView.vue": [
@@ -662,11 +758,11 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/WIPView.vue": [
-    "./assets/WIPView-1e16ec5b.js",
+    "./assets/WIPView-30605840.js",
     "./assets/WIPView-378ecf83.css"
   ],
   "src/views/WIPView.vue?vue&type=style&index=0&lang.css": [
-    "./assets/WIPView-1e16ec5b.js",
+    "./assets/WIPView-30605840.js",
     "./assets/WIPView-378ecf83.css"
   ]
 }
