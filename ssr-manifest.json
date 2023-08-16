@@ -1,5 +1,7 @@
 {
   "\u0000plugin-vue:export-helper": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -25,6 +27,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "\u0000vite/modulepreload-polyfill": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -50,31 +54,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "\u0000vite/preload-helper": [
-    "./assets/logo-b7be7aba.png",
-    "./assets/logo-15017955.png",
-    "./assets/phone-069da07f.png",
-    "./assets/instagram-3254d003.png",
-    "./assets/facebook-55aee8a1.png",
-    "./assets/sidzina-8a246e4c.png",
-    "./assets/skawina-7de9f471.png",
-    "./assets/soon-acfe42a3.png",
-    "./assets/gymnastic-f531a0aa.png",
-    "./assets/zumba-5ab8818a.png",
-    "./assets/first-722a7535.png",
-    "./assets/gymnastic-ceb6d1c7.png",
-    "./assets/zumba-4c1a62f4.png",
-    "./assets/zdj1-9fe8c48e.webp",
-    "./assets/zdj2-5e7840ad.webp",
-    "./assets/zdj3-31d3424f.webp",
-    "./assets/picture-5ec2d9e0.webp",
-    "./assets/location-f2879209.png",
-    "./assets/youtube-b7f09513.png",
-    "./assets/facebook-8d113d79.png",
-    "./assets/instagram-486d52a4.png",
-    "./assets/alemiTv-42a52f1e.webp",
-    "./assets/LaureneScriptFont-27056c94.ttf"
-  ],
-  "index.html": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -226,6 +207,8 @@
     "./assets/vue-4ed993c7.js"
   ],
   "src/App.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -251,6 +234,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/App.vue?vue&type=style&index=0&scoped=494aab8e&lang.css": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -276,6 +261,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/classes/gymnastic.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -301,6 +288,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/classes/zumba.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -326,6 +315,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/footer/logo.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -351,6 +342,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/alemiTv.webp": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -376,6 +369,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/facebook.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -401,6 +396,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/instagram.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -426,6 +423,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/location.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -451,6 +450,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/picture.webp": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -476,6 +477,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/youtube.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -501,6 +504,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/zdj1.webp": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -526,6 +531,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/zdj2.webp": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -551,6 +558,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/home/zdj3.webp": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -576,6 +585,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/main.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -601,6 +612,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/navbar/facebook.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -626,6 +639,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/navbar/instagram.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -651,6 +666,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/navbar/logo.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -676,6 +693,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/navbar/phone.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -701,6 +720,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/pricing/first.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -726,6 +747,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/pricing/gymnastic.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -751,6 +774,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/pricing/zumba.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -776,6 +801,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/schedule/sidzina.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -801,6 +828,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/schedule/skawina.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -826,6 +855,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/assets/schedule/soon.png": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -851,6 +882,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/app/Footer.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -876,6 +909,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/app/Footer.vue?vue&type=style&index=0&scoped=fe3a2e55&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -901,6 +936,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/app/Navbar.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -926,6 +963,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/app/Navbar.vue?vue&type=style&index=0&scoped=113685ac&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -951,6 +990,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Carousel.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -976,6 +1017,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Carousel.vue?vue&type=style&index=0&scoped=3112fc6f&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1001,6 +1044,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Information.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1026,6 +1071,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Information.vue?vue&type=style&index=0&scoped=069a97e0&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1051,6 +1098,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Locations.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1076,6 +1125,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Locations.vue?vue&type=style&index=0&scoped=381abee6&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1101,6 +1152,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Socials.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1126,6 +1179,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Socials.vue?vue&type=style&index=0&scoped=5eebad6a&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1151,6 +1206,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Video.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1176,6 +1233,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Video.vue?vue&type=style&index=0&scoped=a467d948&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1201,6 +1260,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/components/home/Video.vue?vue&type=style&index=1&lang.css": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1226,6 +1287,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/main.js": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1251,6 +1314,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/router/index.js": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1276,6 +1341,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/AboutView.vue?vue&type=style&index=0&lang.css": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1301,6 +1368,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/ClassesView.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1326,6 +1395,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/ClassesView.vue?vue&type=style&index=0&scoped=3eadc28d&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1351,6 +1422,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/HomeView.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1376,6 +1449,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/HomeView.vue?vue&type=style&index=0&scoped=bf7a6a0c&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1401,6 +1476,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/PricingView.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1426,6 +1503,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/PricingView.vue?vue&type=style&index=0&scoped=3c084087&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1451,6 +1530,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/ScheduleView.vue": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1476,6 +1557,8 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/ScheduleView.vue?vue&type=style&index=0&scoped=a0a50ef4&lang.scss": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
@@ -1501,9 +1584,11 @@
     "./assets/LaureneScriptFont-27056c94.ttf"
   ],
   "src/views/WIPView.vue": [
-    "./assets/WIPView-68cd9b4e.js"
+    "./assets/WIPView-d9f3d70f.js"
   ],
   "src/views/WIPView.vue?vue&type=style&index=0&lang.css": [
+    "./assets/main-f77f564e.js",
+    "./assets/main-3424ae33.css",
     "./assets/logo-b7be7aba.png",
     "./assets/logo-15017955.png",
     "./assets/phone-069da07f.png",
