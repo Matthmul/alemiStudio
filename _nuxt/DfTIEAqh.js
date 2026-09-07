@@ -1,0 +1,1 @@
+import{J as l,a1 as c,a2 as s,o as e,g as r,N as i,Y as u,c as b}from"./BJ1BVJ-h.js";const _={__name:"Page",props:{blok:{type:Object,required:!0}},setup(t){return(k,m)=>{const n=l("StoryblokComponent"),a=c("editable");return s((e(),r("div",null,[(e(!0),r(i,null,u(t.blok.body,o=>(e(),b(n,{key:o._uid,blok:o},null,8,["blok"]))),128))])),[[a,t.blok]])}}};export{_ as default};
